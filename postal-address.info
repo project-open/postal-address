@@ -14,6 +14,7 @@
     </database-support>
         <owner url="mailto:jon@mayuli.com">Jon Griffin</owner>
         <summary>An implementation of HR-XML's address standard.</summary>
+        <release-date>2016-11-15</release-date>
         <vendor url="http://www.mayuli.com">Mayuli Enterprises, LLC</vendor>
         <description format="text/html">This is an implementation of HR-XML's address standard.&lt;p&gt;Originally part of Contacts-Lite, now a service.</description>
 
